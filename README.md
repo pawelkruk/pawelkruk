@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Pawel Kruk
-- 👀 I’m interested in building app for tracking investments portfolio
 - 📫 How to reach me - pawel@kruk.net
 
 <!---
